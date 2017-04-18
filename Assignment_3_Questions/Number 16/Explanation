@@ -1,0 +1,2 @@
+There are no models for questions 7 - 10 just correlations between Max, Min, and Mean vectors.  I wasn't able to build a 
+model of these correlations in a graph. But the values I found for the Correlation Max, Min, and Mean had no linear relationship.  The correlation vectors between numbers 7 and 8 had mostly negative correlations between the vectors.  Finally correlation vectors between numbers 9 and 10 had mostly no linear realationship with only two correlations with negative linear relationships.  
